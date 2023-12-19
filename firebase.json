@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "motorcyclegpssystem",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
