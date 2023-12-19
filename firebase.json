@@ -11,7 +11,10 @@
       {
         "source": "**",
         "destination": "/index.php"
-      }
+      },
+      {
+        "source": "**/*.php",
+        "destination": "/$1"
     ]
   }
 }
