@@ -15,6 +15,7 @@
       {
         "source": "**/*.php",
         "destination": "/$1"
+      }
     ]
   }
 }
